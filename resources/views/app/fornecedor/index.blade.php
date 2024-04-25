@@ -168,3 +168,5 @@ Status: {{$fornecedores[0]['status']}}
     @endforelse
 
 @endisset
+
+@dd(fornecedores[0])
